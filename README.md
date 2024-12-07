@@ -14,4 +14,18 @@ This project is a console-based C++ application simulating an online shopping ca
 . C++ Standard Library: Utilizes vector and algorithm for efficient data management and processing.<br>
 . Object-Oriented Design: Implements Product, Item, and Shop classes for modular and reusable code<br>
 . File Separation: making the project organized and easier to extend<br>
+### menu interface
+┌───────────────────────────────────────────┐
+│         Welcome to the Online Shopping Cart!         │
+├───────────────────────────────────────────┤
+│ 1. View Available Products                            │
+│ 2. Add Product to Cart                                │
+│ 3. Remove Product from Cart                           │
+│ 4. View Cart                                          │
+│ 5. Checkout                                           │
+│ 0. Exit                                               │
+├───────────────────────────────────────────┤
+│ Enter your choice:                                    │
+└───────────────────────────────────────────┘
+
 
