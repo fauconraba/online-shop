@@ -12,6 +12,6 @@ This project is a console-based C++ application simulating an online shopping ca
 . Interactive Menu: Navigate through the application with a simple text-based menu.
 ### Tech Stack:
 . C++ Standard Library: Utilizes vector and algorithm for efficient data management and processing.
-. Object-Oriented Design: Implements Product, Item, and Shop classes for modular and reusable code.
-. File Separation: making the project organized and easier to extend.
+. Object-Oriented Design: Implements Product, Item, and Shop classes for modular and reusable code
+. File Separation: making the project organized and easier to extend
 
