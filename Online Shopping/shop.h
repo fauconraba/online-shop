@@ -56,7 +56,7 @@ public:
     if (items.empty())
     {
       cout<<"no items in !"<<endl;
-      return;
+      return; // Exit the function here if items are empty
     }
   for(auto itm:items){
       itm.displayItem();
