@@ -1,5 +1,5 @@
 # online-shop
-## Description
+
 This project is a console-based C++ application simulating an online shopping cart system. Users can browse available products, add items to their cart, remove items, view cart details, and proceed to checkout.
 ### File Structure :
 .  product.h: Defines the Product class, including attributes like name, price, and stock.<br>
