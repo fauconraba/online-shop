@@ -6,7 +6,7 @@ This project is a console-based C++ application simulating an online shopping ca
 .  item.h: Contains the Item class, representing a product and its quantity in the cart.
 .  shop.h: Implements the Shop class to manage cart operations, including adding, removing, and updating items.
 ### Features :
-->Product Management: Display a list of available products (name, price, stock).
+->Product Management: Display a list of available products (name, price, stock).<br>
 -> Cart Operations: Add products to the cart with specified quantities, remove products, and update item quantities.
 -> Checkout Process: Calculate the total cost of items in the cart and display a summary.
 -> Interactive Menu: Navigate through the application with a simple text-based menu.
