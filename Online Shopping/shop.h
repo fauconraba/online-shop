@@ -36,10 +36,12 @@ public:
    }
   }
   void updateItemQuantity(string productName, int Quantity)
-  {
+  { //gunction lambda
+    // auto type
     auto nom= find_if(items.begin(),items.end(),[productName](item itm){
     return itm.getProduct().getName() == productName;
    });
+    // because nom if dont ind the name will take the last 
    if( nom != items.end() )
    {
     //nom is an iterator pointing to the matching item in the vector
