@@ -16,16 +16,16 @@ This project is a console-based C++ application simulating an online shopping ca
 . File Separation: making the project organized and easier to extend<br>
 ### menu interface
 ┌───────────────────────────────────────────┐
-│         Welcome to the Online Shopping Cart!         │
+│ Welcome to the Online Shopping Cart!      │
 ├───────────────────────────────────────────┤
-│ 1. View Available Products                            │
-│ 2. Add Product to Cart                                │
-│ 3. Remove Product from Cart                           │
-│ 4. View Cart                                          │
-│ 5. Checkout                                           │
-│ 0. Exit                                               │
+│ 1. View Available P                       │
+│ 2. Add Product to Cart                    │
+│ 3. Remove Product from Cart                │
+│ 4. View Cart                               │
+│ 5. Checkout                                │
+│ 0. Exit                                    │
 ├───────────────────────────────────────────┤
-│ Enter your choice:                                    │
+│ Enter your choice:                        │
 └───────────────────────────────────────────┘
 
 
